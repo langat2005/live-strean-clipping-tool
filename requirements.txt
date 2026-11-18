@@ -1,0 +1,17 @@
+# Core Stream Ingestion & Processing
+pytchat>=0.5.5
+twitchio>=2.8.0
+streamlink>=6.5.0
+
+# Video & Subtitle Audio Transcription
+faster-whisper>=1.0.0
+numpy>=1.24
+opencv-python-headless>=4.8
+torch>=2.0.0
+
+# UI Dashboard & Telemetry
+streamlit>=1.30.0
+pandas>=2.0.0
+
+# Utilities
+dataclasses-json>=0.6.0
